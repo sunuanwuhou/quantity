@@ -12,6 +12,9 @@
 + [计数-等差](./src/main/qm/07计数-等差.md)
 + [行程](./src/main/qm/08行程.md)
 + [工程](./src/main/qm/09工程.md)
++ [销售](./src/main/qm/10销售1.md)
++ [溶液](./src/main/qm/11溶液.md)
++ [排列组合](./src/main/qm/12排列组合.md)
 
 # 数量作业
 
