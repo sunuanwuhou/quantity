@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [数量作业](#数量作业)
+* [刷题](#刷题)
 
 
 
@@ -20,3 +21,7 @@
 
 + [作业](./src/main/qm/zuoye/课后作业集合.md)
 + [讲义-空](./src/main/qm/zuoye/课后作业集合.md)
+
+# 刷题
+
++ [710](./src/main/qm/shuati/710.md)
