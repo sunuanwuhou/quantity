@@ -3,7 +3,7 @@
 * [数量作业](#数量作业)
 * [刷题](#刷题)
 
-
+# 理论
 
 + [基础知识](./src/main/qm/计算技巧.md)
 + [数论2-9](./src/main/qm/03数论.md)
@@ -20,8 +20,9 @@
 # 数量作业
 
 + [作业](./src/main/qm/zuoye/课后作业集合.md)
-+ [讲义-空](./src/main/qm/zuoye/课后作业集合.md)
++ [刷题作业](./src/main/qm/zuoye/shuatizuoye.md)
 
 # 刷题
 
-+ [710](./src/main/qm/shuati/710.md)
++ [01](./src/main/qm/shuati/01.md)
++ [行程](./src/main/qm/shuati/02行程st.md)
