@@ -17,8 +17,13 @@
 + [销售](./src/main/数量/10销售.md)
 + [溶液](./src/main/数量/11溶液.md)
 + [排列组合](./src/main/数量/12排列组合.md)
-
-## 数量作业
-
 + [作业](./src/main/数量/zuoye/课后作业集合.md)
-+ [刷题作业](./src/main/数量/zuoye/shuatizuoye.md)
+
+## 数量刷题
++ [思维](./src/main/数量/刷题/st-01.md)
++ [行程](./src/main/数量/刷题/st-02行程st.md)
++ [计数](./src/main/数量/刷题/st-03计数.md)
++ [销售](./src/main/数量/刷题/st-04销售.md)
++ [排列组合](./src/main/数量/刷题/st-05排列组合.md)
++ [年龄](./src/main/数量/刷题/st-06年龄.md)
++ [刷题作业](./src/main/数量/zuoye/刷题作业.md)
