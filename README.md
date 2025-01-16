@@ -97,4 +97,4 @@
 + [马哲](./src/main/shiye/马哲/马哲.md)
 + 
 # 党史
-+ [马哲](./src/main/shiye/党史/党史具体.md)
++ [党史](./src/main/shiye/党史/党史具体.md)
