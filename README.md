@@ -97,5 +97,5 @@
 + [马哲](./src/main/shiye/马哲/马哲.md)
 + [党史](./src/main/shiye/党史/党史具体.md)
 + [二十大](./src/main/二十大/二十届三中全会.md)
-+ [25报告](./src/main/shiye/guangdong/25报告.md)
++ [25报告](./src/main/shiye/guangdong/25政府报告.md)
 + [25高质量](./src/main/shiye/guangdong/25高质量大会.md)
