@@ -99,3 +99,4 @@
 + [二十大](./src/main/二十大/二十届三中全会.md)
 + [25报告](./src/main/shiye/guangdong/25政府报告.md)
 + [25高质量](./src/main/shiye/guangdong/25高质量大会.md)
++ [广东省情](./src/main/shiye/广东省情.md)
