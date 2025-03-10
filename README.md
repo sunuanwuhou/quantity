@@ -9,6 +9,7 @@
 * [判断](#判断)
   * [逻辑全部作业](#逻辑全部作业)
 * [政治理论](#政治理论)
+* [申论](#申论)
 
 
 
@@ -100,3 +101,6 @@
 + [25报告](./src/main/shiye/guangdong/25政府报告.md)
 + [25高质量](./src/main/shiye/guangdong/25高质量大会.md)
 + [广东省情](./src/main/shiye/广东省情.md)
+
+# 申论
++ [申论](./src/main/shenlun/申论.md)
